@@ -29,7 +29,7 @@ Group1:
 X Y B A: Button 0~3
 
 Group2:
-L R ZL ZR: Button 4~7
+ZL ZR L R: Button 4~7
 
 Group3: 
 Plus & Minus: Button 8 & 9
