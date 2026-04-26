@@ -13,6 +13,7 @@ err_intY = 450
 uart = UART(0, baudrate=115200, tx=Pin(0), rx=Pin(1))
 
 **Joy2(Pico):**
+
 uart = UART(0, baudrate=115200, tx=Pin(0), rx=Pin(1))
 
 joy_x = ADC(27)
@@ -31,7 +32,7 @@ Group2:
 L R ZL ZR: Button 4~7
 
 Group3: 
-+ -: Button 8 & 9
+Plus & Minus: Button 8 & 9
 
 _group4:_ (built-in)
 JoyDown L&R: Button 10 & 11
